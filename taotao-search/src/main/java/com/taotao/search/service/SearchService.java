@@ -60,6 +60,6 @@ public class SearchService {
 			e.printStackTrace();
 			return new PageResult<>(0L, new ArrayList<Item>(0));
 		}
-	}
+	} 
 
 }
